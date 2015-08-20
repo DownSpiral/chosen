@@ -70,5 +70,6 @@
     "dependencies": {
       "jquery": ">=1.4.4"
     }
-  }
+  },
+  "main": "main.js"
 }
